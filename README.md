@@ -687,7 +687,7 @@ Thanks to author of this repository.
 
 * Recommendations from institutions of complexity science, network science, and computational social science research - 复杂性科学、网络科学、计算社会科学研究机构推介: https://mp.weixin.qq.com/s/R-V4UevsNMKr5tsmWbQDMA
 
-*《Complex Network Analysis in Python》  Dmitry Zinoviev.
+* 《Complex Network Analysis in Python》  Dmitry Zinoviev.
 
 * "Link Forecast" Lu Linyuan Zhou Tao - 《链路预测》吕琳媛 周涛
 
